@@ -9,7 +9,7 @@ By the end of the book, you will be armed with the knowledge to build and deploy
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-Chapters 4, 6, and 8 does not have code files
+Chapters 4, 5, and 8 does not have code files
 
 The code will look like the following:
 ```
