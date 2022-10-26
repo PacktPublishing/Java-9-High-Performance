@@ -40,3 +40,7 @@ public static void lookupPrime(int start, int end) {
 
 * [Reactive Programming With Java 9](https://www.packtpub.com/application-development/reactive-programming-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781787124233)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787120785">https://packt.link/free-ebook/9781787120785 </a> </p>
